@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'montserrat';
+  src: url(Montserrat-SemiBold.otf);
+}
+
+body{
+  background: #333;
+  color: #fff;
+  font-family: 'montserrat';
+}
+
+
+
+.card-block h3{
+  font-size: 1rem!important;
+}
